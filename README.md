@@ -35,5 +35,5 @@
 
 <div>
   <h1>Seongjoeng's Github State<h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Jo-Seongjeong&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jo-Seongjeong&show_icons=true&theme=radical&hide=stars,contribs&count_private=true">
 </div>

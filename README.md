@@ -1,7 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Welcome%20to%20Seongjeong's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=15&fontAlign=50"/>
 
-
+</br>
+<div>
+  <h4> 안녕하세요. 사용자의 경험과 데이터에 가치를 더하여 신뢰와 따뜻함을 전하는 개발자 조성정입니다.</h4>
+</div>
+</br>
 <div><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  
